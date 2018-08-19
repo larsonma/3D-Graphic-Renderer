@@ -1,0 +1,98 @@
+solid AssimpScene
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 0
+  vertex 20 -20 0
+  vertex -20 -20 -20
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 0
+  vertex -20 -20 -20
+  vertex -20 20 0
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 80
+  vertex -20 20 40
+  vertex -20 -20 40
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 80
+  vertex -20 -20 40
+  vertex 20 -20 40
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 0
+  vertex 20 20 80
+  vertex 20 -20 40
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 0
+  vertex 20 -20 40
+  vertex 20 -20 0
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 -20 0
+  vertex 20 -20 40
+  vertex -20 -20 40
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 -20 0
+  vertex -20 -20 40
+  vertex -20 -20 -20
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex -20 -20 -20
+  vertex -20 -20 40
+  vertex -20 20 40
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex -20 -20 -20
+  vertex -20 20 40
+  vertex -20 20 0
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 80
+  vertex 20 20 0
+  vertex -20 20 0
+  endloop
+ endfacet
+
+ facet normal -nan -nan -nan
+  outer loop
+  vertex 20 20 80
+  vertex -20 20 0
+  vertex -20 20 40
+  endloop
+ endfacet
+
+endsolid AssimpScene
