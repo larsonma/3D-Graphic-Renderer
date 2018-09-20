@@ -195,7 +195,7 @@ matrix matrix::operator*(const matrix &rhs) const
 }
 
 /**
- * Multiplies matrix by a scalar value (dot product) and returns the
+ * Multiplies matrix by a scalar value and returns the
  * result as a new matrix.
  * Input:
  *      scale - value to multiple matrix elements by
